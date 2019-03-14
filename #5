@@ -1,0 +1,7 @@
+a = input("Enter a string name:")
+
+s = ""
+
+for letter in a 
+  s = s + letter
+  print(s)
